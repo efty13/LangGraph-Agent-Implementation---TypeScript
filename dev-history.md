@@ -98,11 +98,4 @@ This document logs the development process, AI prompts used, and manual changes 
 - No LLM is needed for simple state transformations
 - TypeScript types provide good type safety when using Annotation API correctly
 
-## Future Improvements (if time permits)
-
-- [ ] Add LangSmith integration for graph visualization
-- [ ] Configure LangGraph MCP server in IDE
-- [ ] Add more comprehensive test coverage
-- [ ] Add error handling for edge cases
-- [ ] Support for optional name with default value
 
